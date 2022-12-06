@@ -1,0 +1,28 @@
+[lib]
+proc-macro = true
+
+[package]
+name = "dotenvy_codegen_impl"
+version = "0.15.2"
+authors = [
+    "Santiago Lapresta <santiago.lapresta@gmail.com>",
+    "Craig Hills <chills@gmail.com>",
+    "Mike Piccolo <mfpiccolo@gmail.com>",
+    "Alice Maz <alice@alicemaz.com>",
+    "Sean Griffin <sean@seantheprogrammer.com>",
+    "Allan Zhang <al@ayz.ai>",
+]
+keywords = ["dotenv", "env", "environment", "settings", "config"]
+license = "MIT"
+homepage = "https://github.com/allan2/dotenvy-codegen-impl"
+repository = "https://github.com/allan2/dotenvy-codegen-impl"
+description = "Formerly used internally by dotenvy_macro"
+edition = "2018"
+rust-version = "1.56.1"
+
+[dependencies]
+proc-macro2 = "1"
+quote = "1"
+syn = "1"
+proc-macro-hack = "0.5"
+dotenvy = "0.15.6"
