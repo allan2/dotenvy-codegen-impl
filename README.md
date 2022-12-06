@@ -1,6 +1,6 @@
 # dotenvy_codgen_impl
 
-[![crates.io](https://img.shields.io/crates/v/dotenvy_codegen_impl.svg)](https://crates.io/crates/dotenvy_codgen_impl)
+[![crates.io](https://img.shields.io/crates/v/dotenvy_codegen_impl.svg)](https://crates.io/crates/dotenvy_codegen_impl)
 [![Released API docs](https://docs.rs/dotenvy_codegen_impl/badge.svg)](https://docs.rs/dotenvy_codegen_impl)
 
 This crate is deprecated and no longer used in [dotenvy](https://github.com/allan2/dotenvy).
