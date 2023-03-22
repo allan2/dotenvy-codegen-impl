@@ -19,6 +19,7 @@ repository = "https://github.com/allan2/dotenvy-codegen-impl"
 description = "Formerly used internally by dotenvy_macro"
 edition = "2018"
 rust-version = "1.56.1"
+badges = ["deprecated"]
 
 [dependencies]
 proc-macro2 = "1"
